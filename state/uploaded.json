@@ -59,6 +59,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-22T14:12:50.927201+00:00"
+    },
+    "1rEvbdxnd6Ebi6zIyBC90EYUdc2t4WfPD": {
+      "name": "white-sneakers-hack-thumb.mp4",
+      "yt_id": "_a-ufAPFrkg",
+      "yt_url": "https://youtu.be/_a-ufAPFrkg",
+      "title": "The sneaker cleaning hack that actually works! #Shorts",
+      "topic": "shoe cleaning hack",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#cleaninghacks",
+        "#sneakerlover"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-22T20:48:56.992845+00:00"
     }
   },
   "history": [
@@ -93,6 +108,14 @@
       "topic": "Cleaning Hacks",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-22T14:12:50.927201+00:00"
+    },
+    {
+      "drive_id": "1rEvbdxnd6Ebi6zIyBC90EYUdc2t4WfPD",
+      "yt_id": "_a-ufAPFrkg",
+      "title": "The sneaker cleaning hack that actually works! #Shorts",
+      "topic": "shoe cleaning hack",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-22T20:48:56.992845+00:00"
     }
   ]
 }
