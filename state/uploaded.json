@@ -44,6 +44,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-21T10:03:04.631890+00:00"
+    },
+    "1_lF2aMB3vlSwf5Wiq0G-PO_wlVLoxY6h": {
+      "name": "pet-hair-hack-thumb.mp4",
+      "yt_id": "y9kZUZ3DtYY",
+      "yt_url": "https://youtu.be/y9kZUZ3DtYY",
+      "title": "The secret to a hair-free carpet! #Shorts",
+      "topic": "Cleaning Hacks",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#cleaninghacks",
+        "#satisfying"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-22T14:12:50.927201+00:00"
     }
   },
   "history": [
@@ -70,6 +85,14 @@
       "topic": "Cleaning Hacks",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-21T10:03:04.631890+00:00"
+    },
+    {
+      "drive_id": "1_lF2aMB3vlSwf5Wiq0G-PO_wlVLoxY6h",
+      "yt_id": "y9kZUZ3DtYY",
+      "title": "The secret to a hair-free carpet! #Shorts",
+      "topic": "Cleaning Hacks",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-22T14:12:50.927201+00:00"
     }
   ]
 }
