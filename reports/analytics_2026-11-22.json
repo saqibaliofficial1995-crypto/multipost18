@@ -1,0 +1,45 @@
+{
+  "channel_id": "UC5Zn8bOqUQ5C8338ySZ05aA",
+  "channel_title": "Ms. Hazel Hacks",
+  "start_date": "2026-11-15",
+  "end_date": "2026-11-22",
+  "metrics": {
+    "kind": "youtubeAnalytics#resultTable",
+    "columnHeaders": [
+      {
+        "name": "views",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      },
+      {
+        "name": "estimatedMinutesWatched",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      },
+      {
+        "name": "averageViewDuration",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      },
+      {
+        "name": "subscribersGained",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      },
+      {
+        "name": "subscribersLost",
+        "columnType": "METRIC",
+        "dataType": "INTEGER"
+      }
+    ],
+    "rows": [
+      [
+        180,
+        26,
+        16,
+        0,
+        0
+      ]
+    ]
+  }
+}
