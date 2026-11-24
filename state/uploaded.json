@@ -104,6 +104,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-24T02:01:52.765129+00:00"
+    },
+    "14qFwo7CI9Bd-W9OrPQ_OA-GRsCBHN6z4": {
+      "name": "mattress-freshen-hack-thumb.mp4",
+      "yt_id": "hqCQMll6LBw",
+      "yt_url": "https://youtu.be/hqCQMll6LBw",
+      "title": "The secret to a spotless mattress! #Shorts",
+      "topic": "mattress cleaning",
+      "tags_count": 12,
+      "hashtags": [
+        "#cleaning",
+        "#satisfying",
+        "#shorts"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-24T12:47:11.948922+00:00"
     }
   },
   "history": [
@@ -162,6 +177,14 @@
       "topic": "Kitchen cleaning hacks",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-24T02:01:52.765129+00:00"
+    },
+    {
+      "drive_id": "14qFwo7CI9Bd-W9OrPQ_OA-GRsCBHN6z4",
+      "yt_id": "hqCQMll6LBw",
+      "title": "The secret to a spotless mattress! #Shorts",
+      "topic": "mattress cleaning",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-24T12:47:11.948922+00:00"
     }
   ]
 }
