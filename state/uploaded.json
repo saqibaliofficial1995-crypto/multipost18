@@ -134,6 +134,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-24T23:36:27.922374+00:00"
+    },
+    "1DdW8c9gwh7ESOLPPpW9wa29200jQNxRY": {
+      "name": "cabinet-grease-hack-thumb.mp4",
+      "yt_id": "XdO3h2R4YKQ",
+      "yt_url": "https://youtu.be/XdO3h2R4YKQ",
+      "title": "The secret to spotless cabinets in seconds #Shorts",
+      "topic": "Kitchen Cleaning",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#cleaninghacks",
+        "#satisfying"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-25T11:35:07.531673+00:00"
     }
   },
   "history": [
@@ -208,6 +223,14 @@
       "topic": "Wall cleaning hack",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-24T23:36:27.922374+00:00"
+    },
+    {
+      "drive_id": "1DdW8c9gwh7ESOLPPpW9wa29200jQNxRY",
+      "yt_id": "XdO3h2R4YKQ",
+      "title": "The secret to spotless cabinets in seconds #Shorts",
+      "topic": "Kitchen Cleaning",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-25T11:35:07.531673+00:00"
     }
   ]
 }
