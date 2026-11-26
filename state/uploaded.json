@@ -164,6 +164,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-25T23:13:15.800587+00:00"
+    },
+    "1Q4tBwqXDq_JVtZf7HkGOe9bqtrLeF1Jp": {
+      "name": "dishwasher-deep-clean-hack-thumb.mp4",
+      "yt_id": "helJ56sMtI4",
+      "yt_url": "https://youtu.be/helJ56sMtI4",
+      "title": "The secret to spotless dishes in seconds #Shorts",
+      "topic": "Kitchen Cleaning",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#cleaninghacks",
+        "#satisfying"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-26T11:16:36.638491+00:00"
     }
   },
   "history": [
@@ -254,6 +269,14 @@
       "topic": "Kitchen cleaning hacks",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-25T23:13:15.800587+00:00"
+    },
+    {
+      "drive_id": "1Q4tBwqXDq_JVtZf7HkGOe9bqtrLeF1Jp",
+      "yt_id": "helJ56sMtI4",
+      "title": "The secret to spotless dishes in seconds #Shorts",
+      "topic": "Kitchen Cleaning",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-26T11:16:36.638491+00:00"
     }
   ]
 }
