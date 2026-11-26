@@ -179,6 +179,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-26T11:16:36.638491+00:00"
+    },
+    "1VyIRXRo7i1GHQatuNLgP4CUkvdLGRGIi": {
+      "name": "range-hood-filter-hack-thumb.mp4",
+      "yt_id": "IcsHsYh5s00",
+      "yt_url": "https://youtu.be/IcsHsYh5s00",
+      "title": "Watch the grease disappear instantly! #Shorts",
+      "topic": "Kitchen cleaning",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#cleaning",
+        "#kitchenhacks"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-26T23:11:33.305742+00:00"
     }
   },
   "history": [
@@ -277,6 +292,14 @@
       "topic": "Kitchen Cleaning",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-26T11:16:36.638491+00:00"
+    },
+    {
+      "drive_id": "1VyIRXRo7i1GHQatuNLgP4CUkvdLGRGIi",
+      "yt_id": "IcsHsYh5s00",
+      "title": "Watch the grease disappear instantly! #Shorts",
+      "topic": "Kitchen cleaning",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-26T23:11:33.305742+00:00"
     }
   ]
 }
