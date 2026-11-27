@@ -194,6 +194,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-26T23:11:33.305742+00:00"
+    },
+    "1LjvvKJ11RbAAP9Sha50MNz1oSdk9Ek_M": {
+      "name": "oven-racks-hack-thumb.mp4",
+      "yt_id": "KMsM16xW_PQ",
+      "yt_url": "https://youtu.be/KMsM16xW_PQ",
+      "title": "The secret to a spotless oven rack! #Shorts",
+      "topic": "Kitchen Cleaning",
+      "tags_count": 13,
+      "hashtags": [
+        "#shorts",
+        "#cleaninghacks",
+        "#bakingsoda"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-27T11:10:33.539954+00:00"
     }
   },
   "history": [
@@ -300,6 +315,14 @@
       "topic": "Kitchen cleaning",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-26T23:11:33.305742+00:00"
+    },
+    {
+      "drive_id": "1LjvvKJ11RbAAP9Sha50MNz1oSdk9Ek_M",
+      "yt_id": "KMsM16xW_PQ",
+      "title": "The secret to a spotless oven rack! #Shorts",
+      "topic": "Kitchen Cleaning",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-27T11:10:33.539954+00:00"
     }
   ]
 }
